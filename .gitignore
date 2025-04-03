@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Variável de Ambiente
+.env
+
+# Build
+dist/
+build/
+
+# Testes
+coverage/
+
+#Temporários
+.temp/
+.cache/
+
+# Arquivos de log 
+logs.txt
