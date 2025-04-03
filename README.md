@@ -119,7 +119,3 @@ npx jest --watch
 - **Repository Pattern** - Abstração do acesso a dados.
 - **Singleton Pattern** - Instâncias únicas para serviços.
 - **Transaction Pattern** - Assegura que as transferências sejam atômicas.
-
-```
-
-```
